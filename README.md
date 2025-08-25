@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**biswassarthak09/biswassarthak09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Sarthak Biswas! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=500&lines=Backend+Developer+%7C+4%2B+Years+Experience;AI%2FML+Researcher+%7C+University+of+Freiburg;Building+Scalable+Systems+%26+APIs;Always+Learning+New+Technologies)](https://git.io/typing-svg)
@@ -94,13 +77,13 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswassarthak09&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biswassarthak09&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=biswassarthak09&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=biswassarthak09&theme=radical&row=1&column=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=biswassarthak09&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Connect With Me
 
